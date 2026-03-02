@@ -23,6 +23,6 @@ This repository contains a full-scale database system project developed for the 
 ---
 
 ## 🛠️ Technologies & Tools
-* **Database Engine**: Oracle SQL / MySQL (as per project requirements).
+* **Database Engine**: Oracle SQL.
 * **Modeling Tools**: Draw.io / Lucidchart (for ER/EER diagrams).
 * **Documentation**: Detailed reports for each phase of the SDLC.
